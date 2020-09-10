@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>bce22220-f8e8-4a6c-ab65-74f3426d349c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>listor.6.py</StartupFile>
+    <StartupFile>string.6.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -46,10 +46,16 @@
     <Compile Include="listor.6.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="listor.7.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="loop12to13.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="lopp.1to11.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="string.6.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="var.11.py">
