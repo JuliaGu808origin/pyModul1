@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>bce22220-f8e8-4a6c-ab65-74f3426d349c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>string.6.py</StartupFile>
+    <StartupFile>method.10.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -55,7 +55,28 @@
     <Compile Include="lopp.1to11.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="string.6.py">
+    <Compile Include="method.10.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="method.1to4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="method.6.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="method.7.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="method.8.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="method.9.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="method5.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="string.6to14.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="var.11.py">
