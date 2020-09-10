@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>bce22220-f8e8-4a6c-ab65-74f3426d349c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>var.2.py</StartupFile>
+    <StartupFile>var.2to10.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="HelloWorld.py" />
-    <Compile Include="var.2.py">
+    <Compile Include="var.2to10.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
