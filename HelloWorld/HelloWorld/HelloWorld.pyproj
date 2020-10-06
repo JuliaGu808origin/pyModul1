@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>bce22220-f8e8-4a6c-ab65-74f3426d349c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>method.10.py</StartupFile>
+    <StartupFile>classdemo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,30 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="classdemo.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="datetime.1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="datetime.2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="datetime.3.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="datetime.4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="datetime.5.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="datetime.6.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="datetime.7.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="HelloWorld.py" />
     <Compile Include="if.11.py">
       <SubType>Code</SubType>
@@ -74,6 +98,24 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="method5.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="oop.1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="oop.2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="oop.3.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="oop.4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="oop.5.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="robbinDemo.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="string.6to14.py">

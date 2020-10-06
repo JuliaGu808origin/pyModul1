@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+#ignore own file from class note
+/HelloWorld/HelloWorld/classdemo.py
+
 # User-specific files
 *.rsuser
 *.suo
